@@ -43,7 +43,7 @@ while True:
 	if recieve=='open' and data == 'on':
 		username = "iottoimprovemoderndaylife"
 		fromaddr = "iottoimprovemoderndaylife@gmail.com"
-		password = "011235813213455"
+		password = "**********"
 		toaddr = "himynameisphi@gmail.com"
 		msg = MIMEMultipart()
 		msg['From'] = fromaddr
